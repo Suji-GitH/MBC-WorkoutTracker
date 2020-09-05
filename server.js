@@ -40,7 +40,6 @@ app.get("/stats", (req, res) => {
 
 //API routes
 app.post("/api/workouts", ({ body }, res) => {
-    console.log("create workout");
     db.workouts.create(body)
     .then(dbWorkouts => {
         res.json(dbWorkouts);
