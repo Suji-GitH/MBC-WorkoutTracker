@@ -51,7 +51,7 @@ Completed Exercise
 <img src = "./public/assets/Screenshots/completedExercise.jpg">
 
 Dashboard
-<img src = "./public/assets/Screenshots/Dashboard">
+<img src = "./public/assets/Screenshots/Dashboard.jpg">
 
 ## Credits
 
